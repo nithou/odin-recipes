@@ -1,5 +1,7 @@
 * {
     color:#31473A;
+    box-sizing: border-box;
+    /* Border-box changes the box model so that padding & margins are included in the size */
 }
 
 body {
