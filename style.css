@@ -1,0 +1,17 @@
+* {
+    color:#31473A;
+}
+
+body {
+    background-color:#EDF4F2;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+    color:#B85042;
+}
+
+h1, h2, h3 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:600;
+}
